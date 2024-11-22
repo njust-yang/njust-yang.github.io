@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. in Electronics and Information - Artificial Intelligence at Nanjing University of Science and Technology（南京理工大学计算机学院）. My current research focuses on talking head generation and editing, as well as audio-based emotion-driven talking head generation. If you are interested in our work, feel free to contact me via email at <a href="yhjhdu@163.com">yhjhdu@163.com</a>.
+I am currently pursuing a Ph.D. in Electronics and Information - Artificial Intelligence at Nanjing University of Science and Technology（南京理工大学计算机学院）. My current research focuses on talking head generation and editing, as well as audio-based emotion-driven talking head generation. My advisor is Professor <a href="https://dblp.org/pid/y/JianYang3.html">Jian Yang (杨健)</a>, with Professor <a href="http://www.patternrecognition.asia/qian/">Jianjun Qian (钱建军)</a> as my co-advisor. I also collaborate with Associate Professor <a href="https://jessezhang92.github.io">Zhenyu Zhang (张振宇)</a> from Nanjing University (南京大学) and Assistant Professor <a href="https://ha0tang.github.io)">Hao Tang (唐浩)</a> from Peking University (北京大学).
+
+If you are interested in our work, feel free to contact me via email at <a href="yhjhdu@163.com">yhjhdu@163.com</a>.
 
 
 # 🔥 News
