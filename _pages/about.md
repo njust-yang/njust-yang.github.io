@@ -21,8 +21,7 @@ I am currently pursuing a Ph.D. in Electronics and Information - Artificial Inte
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 Our paper "ConsistentAvatar" is accepted by ACMMM 2024 (Oral)! 
 
 # 📝 Publications 
 
