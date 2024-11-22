@@ -38,6 +38,8 @@ ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with 
 <a href="https://njust-yang.github.io"><img src='../images/code.png' width="33" height="20"></a>
 <a href="https://njust-yang.github.io"><img src='../images/projectpage.png' width="66" height="20"></a>
 
+ConsistentAvatar can generate fully consistent talking head avatars, including temporal consistency, expression consistency, and 3D consistency.
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
