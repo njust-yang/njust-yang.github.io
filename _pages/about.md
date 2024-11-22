@@ -34,6 +34,8 @@ ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with 
 
 <a href="https://njust-yang.github.io">Haijie Yang</a>, <a href="https://jessezhang92.github.io">Zhenyu Zhang*</a>, <a href="https://ha0tang.github.io">Hao Tang</a>, <a href="http://www.patternrecognition.asia/qian/">Jianjun Qian</a>, <a href="https://dblp.org/pid/y/JianYang3.html">Jian Yang*</a>
 
+<a href="https://njust-yang.github.io"><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
