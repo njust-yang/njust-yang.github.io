@@ -23,7 +23,7 @@ If you are interested in our work, feel free to contact me via email at <a href=
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper "ConsistentAvatar" is accepted by ACMMM 2024 (Oral)! 
+- *2024.07*: &nbsp;🎉🎉 Our paper <font color="#0000FF">"ConsistentAvatar"</font> is accepted by <font color="#FF0000">ACMMM 2024 (Oral presentation).</font>
 
 # 📝 Publications 
 
